@@ -1,5 +1,5 @@
-# Serial Port Arduino in Python
-
+# Serial Port Arduino in Python ( Beta Version Cascade Manager )
+DK Studio Production 
 ## Описание проекта
 
 Этот проект предназначен для подключения к устройству Arduino через последовательный порт (COM-порт) и получения данных с него. Программа ждет ввода команды "привет" в консоли для начала процесса подключения. После подключения программа непрерывно получает данные от Arduino и выводит их в консоль.
@@ -98,3 +98,6 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+### Автор пректа
+© Copyright DK Studio All rights reserved 2023-2024 
